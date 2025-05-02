@@ -1,6 +1,10 @@
 # From API to Dashboard: Building a Complete ETL Pipeline on AWS
 
-This project shows how to build a full end-to-end data pipeline using **AWS services** — from collecting raw job data to displaying it in a dashboard. I'have used live job listings from the **Adzuna API**, transforming and loading the data into **Amazon Redshift Serverless**, and creating interactive dashboards with **Looker Studio**.
+This project explains how to build a complete end-to-end data pipeline using **AWS services**. It starts with collecting real-time job listings for Data Engineering roles in Canada using the **Adzuna API**, then processes the data using **AWS Glue**, stores it in **Amazon S3**, loads it into **Amazon Redshift Serverless**, and finally presents it in a clean and interactive dashboard built with **Looker Studio**.
+
+The main goal of this pipeline is to show how we can automate data collection, transformation, and reporting — all without managing servers. This kind of setup is very useful for building data workflows that run on a schedule, can handle changes in data automatically, and help businesses make decisions by showing useful insights in dashboards.
+
+I have also used **AWS Step Functions** to manage and control the flow of each step in the pipeline and **Amazon EventBridge** to schedule when the pipeline should run (like daily or weekly). This makes the whole process automatic and serverless..
 
 ![Project Workflow](workflows/project_workflow.png)
 
@@ -9,7 +13,7 @@ This project shows how to build a full end-to-end data pipeline using **AWS serv
 This project follows these main steps:
 
 ### Step 1: Extract Data  
-- We use **AWS Glue (Python Shell Job)** to collect job listing data from the Adzuna API.
+- I'have used **AWS Glue (Python Shell Job)** to collect job listing data from the Adzuna API.
 - The raw data is saved in **Amazon S3**.
 
 ### Step 2: Transform Data  
