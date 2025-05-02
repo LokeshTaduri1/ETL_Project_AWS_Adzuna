@@ -50,7 +50,6 @@ Below are some visuals to understand the process better:
 - **Step Function Workflow** 
   <img src="workflows/step_functions_workflow.png" width=50% height=50%>
 
-
 - **Execution Success Example**
     <img src="workflows/step_functions_success.png" width="60%">
 
