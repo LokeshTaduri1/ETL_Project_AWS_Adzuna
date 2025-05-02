@@ -47,21 +47,17 @@ This project follows these main steps:
 
 Below are some visuals to understand the process better:
 
-- **Step Function Workflow** 
-  <img src="workflows/step_functions_workflow.png" width=50% height=50%>
+- **Step Function Workflow**  
+  <img src="workflows/step_functions_workflow.png" width="60%">
 
-- **Execution Success Example**
-    <img src="workflows/step_functions_success.png" width="60%">
+- **Execution Success Example**  
+  <img src="workflows/step_functions_success.png" width="60%">
 
 - **Data Loaded in Redshift**  
-  <p align="center">
-    <img src="workflows/redshift.png" width="60%">
-  </p>
+  <img src="workflows/redshift.png" width="60%">
 
-- **Final Looker Studio Dashboard**
-- <p align="center">
-    <img src="workflows/looker_job_dashboard.png" width="60%">
-  </p>
+- **Final Looker Studio Dashboard**  
+  <img src="workflows/looker_job_dashboard.png" width="60%">
 
 ---
 
