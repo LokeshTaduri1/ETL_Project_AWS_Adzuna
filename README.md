@@ -29,13 +29,14 @@ This project follows these main steps:
 ## ⚙️ Services Used
 
 - **AWS Glue** (Python Shell + Spark Jobs)
-- **Amazon S3**
-- **Amazon Redshift Serverless**
-- **AWS Step Functions** (to manage the ETL flow)
+- **Amazon S3** (To store raw, stagging and processed data)
+- **Amazon Redshift Serverless**(Data Warehouse)
+- **AWS Step Functions** (to orchestrate the ETL flow)
 - **Amazon EventBridge** (to schedule jobs)
+- **IAM (Identity Access Management to manage roles,permissions, security policies)
 - **Looker Studio** (for reporting and dashboards)
 - **Python**
-- **Adzuna Job Search API**
+- **Adzuna Job Search API** (to get the data)
 
 ---
 
