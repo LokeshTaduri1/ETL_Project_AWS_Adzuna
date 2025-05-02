@@ -65,7 +65,7 @@ Below are some visuals to understand the process better:
 
 - **Final Looker Studio Dashboard**
 - <p align="center">
-    <img src="workflows/looker_job_dashboard" width="60%">
+    <img src="workflows/looker_job_dashboard.png" width="60%">
   </p>
 
 ---
