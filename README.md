@@ -36,3 +36,33 @@ This project follows these main steps:
 - **Adzuna Job Search API**
 
 ---
+
+> ✅ **Note:** All screenshots are placed in the appropriate folders with meaningful names so you can easily refer to them below.
+
+---
+
+## 🖼️ Visual Walkthrough
+
+Below are some visuals to understand the process better:
+
+- **Step Function Workflow**  
+  ![Step Function Workflow](workflows/step_function.png)
+
+- **Execution Success Example**  
+  ![Execution Success](workflows/execution_success.png)
+
+- **Data Loaded in Redshift**  
+  ![Redshift DB](dashboard/redshift_db.png)
+
+- **Final Looker Studio Dashboard**  
+  ![Looker Dashboard](dashboard/dashboard.png)
+
+---
+
+## 🚀 How to Run This Project
+
+### 1. Clone This Repository
+
+```bash
+git clone https://github.com/your-username/aws-etl-project.git
+cd aws-etl-project
