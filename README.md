@@ -49,9 +49,7 @@ Below are some visuals to understand the process better:
 
 - **Step Function Workflow**  
   ![Step Function Workflow](workflows/step_functions_workflow.png)
-  ![test image size](workflows/step_functions_workflow.png){:class="img-responsive"}
-  ![test image size](workflows/step_functions_workflow.png){:height="50%" width="50%"}
-  ![test image size](workflows/step_functions_workflow.png){:height="700px" width="400px"}
+  <img src="workflows/step_functions_workflow.png" width=50% height=50%
 
 - **Execution Success Example**  
   ![Execution Success](workflows/step_functions_success.png)
