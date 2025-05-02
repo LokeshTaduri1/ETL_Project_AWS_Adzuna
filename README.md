@@ -12,7 +12,7 @@ I have also used **AWS Step Functions** to manage and control the flow of each s
 
 ![Project Workflow](workflows/project_workflow.png)
 
-## 🧭 Project Flow
+## Project Flow
 
 This project follows these main steps:
 
@@ -34,7 +34,7 @@ This project follows these main steps:
 
 ---
 
-## ⚙️ Services Used
+## Services Used
 
 - **AWS Glue** (Python Shell + Spark Jobs)
 - **Amazon S3** (To store raw, stagging and processed data)
@@ -48,7 +48,7 @@ This project follows these main steps:
 
 ---
 
-## 🖼️ Visual Walkthrough
+## Visual Walkthrough
 
 Below are some visuals to understand the process better:
 
@@ -65,11 +65,3 @@ Below are some visuals to understand the process better:
   <img src="workflows/looker_job_dashboard.png" width="60%">
 
 ---
-
-## 🚀 How to Run This Project
-
-### 1. Clone This Repository
-
-```bash
-git clone https://github.com/your-username/aws-etl-project.git
-cd aws-etl-project
