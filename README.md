@@ -39,10 +39,6 @@ This project follows these main steps:
 
 ---
 
-> ✅ **Note:** All screenshots are placed in the appropriate folders with meaningful names so you can easily refer to them below.
-
----
-
 ## 🖼️ Visual Walkthrough
 
 Below are some visuals to understand the process better:
