@@ -2,6 +2,8 @@
 
 This project shows how to build a full end-to-end data pipeline using **AWS services** — from collecting raw job data to displaying it in a dashboard. We are using live job listings from the **Adzuna API**, transforming and loading the data into **Amazon Redshift Serverless**, and creating interactive dashboards with **Looker Studio**.
 
+![Project Workflow](workflows/project_workflow.png)
+
 ## 🧭 Project Flow
 
 This project follows these main steps:
