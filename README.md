@@ -55,7 +55,7 @@ Below are some visuals to understand the process better:
 - **Step Function Workflow**  
   <img src="workflows/step_functions_workflow.png" width="60%">
 
-- **Execution Success Example**  
+- **Execution Success **  
   <img src="workflows/step_functions_success.png" width="60%">
 
 - **Data Loaded in Redshift**  
