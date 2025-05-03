@@ -41,7 +41,7 @@ This project follows these main steps:
 - **Amazon Redshift Serverless**(Data Warehouse)
 - **AWS Step Functions** (to orchestrate the ETL flow)
 - **Amazon EventBridge** (to schedule jobs)
-- **IAM (Identity Access Management to manage roles,permissions, security policies)
+- **IAM** (Identity Access Management to manage roles,permissions, security policies)
 - **Looker Studio** (for reporting and dashboards)
 - **Python**
 - **Adzuna Job Search API** (to get the data)
