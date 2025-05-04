@@ -10,7 +10,7 @@ The main goal of this pipeline is to show how we can automate data collection, t
 
 I have also used **AWS Step Functions** to manage and control the flow of each step in the pipeline and **Amazon EventBridge** to schedule when the pipeline should run (like daily or weekly). This makes the whole process automatic and serverless..
 
-![Project Workflow](workflows/project_workflow.png)
+![Project Workflow](workflows/Project_workflow.png)
 
 ## Project Flow
 
